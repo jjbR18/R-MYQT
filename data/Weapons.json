@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"animationId":6,"description":"又轻又方便使用的小刀。\n有点寒酸。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":120,"name":"小刀","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"短小又方便使用的腰刀。\n品质很普通。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":120,"name":"腰刀","note":"","params":[0,0,20,0,0,0,0,0],"price":1000,"wtypeId":2},
+{"id":3,"animationId":6,"description":"优秀的刀具。\n攻击力可没话说。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":120,"name":"日本刀","note":"","params":[0,0,30,0,0,0,0,0],"price":3000,"wtypeId":2},
+{"id":4,"animationId":31,"description":"适合不擅长战斗的人。\n装备上这个就不会输。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":9.99},{"code":22,"dataId":1,"value":9.99},{"code":33,"dataId":0,"value":999},{"code":51,"dataId":2,"value":1}],"iconIndex":123,"name":"妖刀简单模式","note":"","params":[5000,5000,500,500,500,500,500,500],"price":0,"wtypeId":2},
+{"id":5,"animationId":6,"description":"忍者们使用的\n锋利的刀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":120,"name":"忍者刀","note":"","params":[0,0,40,0,0,0,0,0],"price":4000,"wtypeId":2},
+{"id":6,"animationId":6,"description":"如黑夜一般漆黑的刀。\n恐怖的锋利程度值得夸耀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":120,"name":"暗夜刀","note":"","params":[0,0,60,0,0,0,0,0],"price":3000,"wtypeId":2},
+{"id":7,"animationId":6,"description":"某个远方的未知文明锻造的刀。\n用微振可以切断任何东西。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":1}],"iconIndex":120,"name":"宇宙刀","note":"","params":[0,0,90,0,0,0,0,0],"price":3000,"wtypeId":2}
+]
